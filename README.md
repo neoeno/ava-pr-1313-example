@@ -8,6 +8,8 @@ ava test.js
 Output:
 
 ```
+$ node --version
+v7.4.0
 $ ava test.js
 
   1 failed
