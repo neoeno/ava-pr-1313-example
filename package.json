@@ -3,6 +3,10 @@
     "test": "ava"
   },
   "devDependencies": {
-    "ava": "avajs/ava#master"
+    "ava": "avajs/ava#3da8603b87ae43a77f581738233ea98c3de5a10f"
+
+  },
+  "// to see how the PR impacts the result, use this dependency:": {
+    "ava": "neoeno/ava#include-anonymous-functions-in-stacktraces"
   }
 }
