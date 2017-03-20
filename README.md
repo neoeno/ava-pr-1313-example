@@ -17,9 +17,13 @@ $ ava test.js
 
    5: test("some test", t => {
    6:   fn()();
-   7: })
+   7: });
 
-  Error: doesnotexist is not defined
+  Error:
+
+    [ReferenceError: doesnotexist is not defined]
+
+  Error thrown in test
 ```
 
 (Line 6 gets highlighted.)

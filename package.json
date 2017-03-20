@@ -3,6 +3,6 @@
     "test": "ava"
   },
   "devDependencies": {
-    "ava": "0.18.2"
+    "ava": "avajs/ava#master"
   }
 }
